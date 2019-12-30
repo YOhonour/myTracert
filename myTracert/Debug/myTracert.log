@@ -1,0 +1,4 @@
+﻿  myTracert.cpp
+C:\Users\Lenovo\source\repos\myTracert\myTracert\myTracert.cpp(125,50): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Lenovo\source\repos\myTracert\myTracert\myTracert.cpp(239,53): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  myTracert.vcxproj -> C:\Users\Lenovo\source\repos\myTracert\Debug\myTracert.exe
